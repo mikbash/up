@@ -1,0 +1,8 @@
+#!/bin/bash
+#atualizar o sistema
+sudo apt update
+sudo apt-get update
+sudo apt upgrade
+sudo apt-get uprade
+sudo apt autoremove
+sudo apt-get autoremove
